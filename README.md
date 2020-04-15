@@ -1,8 +1,8 @@
-#formatting ReadMe Link
+# formatting ReadMe Link
 https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
 
 
-#Best Practice ReadMe - Example Below 
+# Best Practice ReadMe - Example Below 
 Project title
 A little info about your project and/ or overview that explains what the project is about.
 
